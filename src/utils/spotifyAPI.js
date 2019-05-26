@@ -1,7 +1,7 @@
 const api = "https://api.spotify.com/v1/browse/featured-playlists"
 const headers = {
   Accept: "application/json",
-  Authorization: "OAuth",
+  Authorization: "",
   "Content-Type": "application/json"
 }
 
